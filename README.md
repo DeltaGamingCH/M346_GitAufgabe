@@ -54,3 +54,6 @@ Ein PaaS-Provider stellt eine komplette Infrastruktur bereit und bietet dem Kund
 ### Software as a Service (SaaS)
 Man muss sich um nichts der obigen kümmern, da nur die Applikation zur Verfügung gestellt wird. 
 Sämtliche Angebote von Anwendungen, die den Kriterien des Cloud Computing entsprechen, fallen in diese Kategorie. Dem Angebotsspektrum sind hierbei keine Grenzen gesetzt. Als Beispiele seien Kontaktdatenmanagement, Finanzbuchhaltung, Textverarbeitung oder Kollaborationsanwendungen genannt.
+
+### Weitere Dokumentation
+https://gbssg.gitlab.io/m346/
